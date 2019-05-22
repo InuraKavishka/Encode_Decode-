@@ -15,7 +15,7 @@ def main():
             check = False
         else :
             print ('Incorrect Input')
-
+#hello
 def encode_text():
     #global makes these variable global that means can access any where
     global encodeword
